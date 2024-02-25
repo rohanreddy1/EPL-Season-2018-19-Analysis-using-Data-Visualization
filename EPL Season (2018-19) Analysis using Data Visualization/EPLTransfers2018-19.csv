@@ -1,0 +1,631 @@
+Club,Player,Age,Position,Market Value(in Million),Club Transfer Status,Transfer Fee
+Man City,Riyad Mahrez,27,Right Winger,20000000,In,67800000
+Man City,Ante Palaversa,18,Central Midfield,700000,In,6300000
+Man City,Philippe Sandler,21,Centre Back,1800000,In,2500000
+Man City,Ko Itakura,21,Centre Back,12000000,In,1100000
+Man City,Daniel Arzani,19,Left Winger,450000,In,890000
+Man City,Arijanet Muric,19,Goalkeeper,1200000,In,Academy Promotion
+Man City,Manu García,20,Attacking Midfield,3000000,In,Academy Promotion
+Man City,Arijanet Muric,19,Goalkeeper,12000000,In,End of loan
+Man City,Thomas Agyepong,22,Left Winger,100000,In,End of loan
+Man City,Yangel Herrera,20,Central Midfield,5000000,In,End of loan
+Man City,Anthony Cáceres,26,Central Midfield,600000,In,End of loan
+Man City,Olarenwaju Kayode,25,Centre Forward,1300000,In,End of loan
+Man City,Marlos Moreno,22,Left Winger,950000,In,End of loan
+Man City,Jason Denayer,23,Centre Back,5000000,In,End of loan
+Man City,Luka Ilic,18,Attacking Midfield,2500000,In,End of loan
+Man City,Pablo Maffeo,20,Right Back,8000000,In,End of loan
+Man City,Anthony Cáceres,25,Central Midfield,600000,In,End of loan
+Man City,Thomas Agyepong,21,Left Winger,100000,In,End of loan
+Man City,Pablo Marí,24,Centre Back,5000000,In,End of loan
+Man City,Brahim Díaz,19,Attacking Midfield,20000000,Out,17000000
+Man City,Angus Gunn,22,Goalkeeper,2500000,Out,11300000
+Man City,Jason Denayer,23,Centre Back,5000000,Out,10000000
+Man City,Pablo Maffeo,20,Right Back,8000000,Out,9000000
+Man City,Joe Hart,31,Goalkeeper,1500000,Out,3900000
+Man City,Bersant Celina,21,Attacking Midfield,2500000,Out,3400000
+Man City,Olarenwaju Kayode,25,Centre Forward,1300000,Out,3000000
+Man City,Ko Itakura,21,Centre Back,12000000,Out,loan transfer
+Man City,Ante Palaversa,18,Central Midfield,700000,Out,loan transfer
+Man City,Arijanet Muric,19,Goalkeeper,12000000,Out,loan transfer
+Man City,Patrick Roberts,21,Right Winger,3200000,Out,loan transfer
+Man City,Daniel Arzani,19,Left Winger,450000,Out,loan transfer
+Man City,Manu García,20,Attacking Midfield,3000000,Out,loan transfer
+Man City,Thomas Agyepong,21,Left Winger,100000,Out,loan transfer
+Man City,Luka Ilic,19,Attacking Midfield,2500000,Out,loan transfer
+Man City,Jack Harrison,21,Left Winger,22000000,Out,loan transfer
+Man City,Pablo Marí,24,Centre Back,5000000,Out,loan transfer
+Man City,Anthony Cáceres,26,Central Midfield,600000,Out,loan transfer
+Man City,Anthony Cáceres,25,Central Midfield,600000,Out,loan transfer
+Man City,Yangel Herrera,21,Central Midfield,5000000,Out,loan transfer
+Man City,Marlos Moreno,22,Left Winger,950000,Out,loan transfer
+Man United,Fred,25,Central Midfield,20000000,In,59000000
+Man United,Diogo Dalot,19,Right Back,40000000,In,22000000
+Man United,Cameron Borthwick Jackson,22,Left Back,250000,In,End of loan
+Man United,Andreas Pereira,22,Attacking Midfield,18000000,In,End of loan
+Man United,Joel Pereira,22,Goalkeeper,250000,In,End of loan
+Man United,Axel Tuanzebe,21,Centre Back,4500000,In,End of loan
+Man United,Timothy Fosu Mensah,21,Right Back,2000000,In,End of loan
+Man United,James Wilson,23,Centre Forward,275000,In,End of loan
+Man United,Daley Blind,28,Centre Back,3000000,Out,16000000
+Man United,Sam Johnstone,25,Goalkeeper,6000000,Out,7350000
+Man United,Marouane Fellaini,31,Central Midfield,1000000,Out,7200000
+Man United,Joel Pereira,22,Goalkeeper,250000,Out,loan transfer
+Man United,Joel Pereira,22,Goalkeeper,250000,Out,loan transfer
+Man United,Cameron Borthwick Jackson,21,Left Back,250000,Out,loan transfer
+Man United,Axel Tuanzebe,20,Centre Back,4500000,Out,loan transfer
+Man United,Timothy Fosu Mensah,20,Right Back,2000000,Out,loan transfer
+Man United,James Wilson,22,Centre Forward,275000,Out,loan transfer
+Tottenham,Oliver Skipp,17,Defensive Midfield,15000000,In,Academy Promotion
+Tottenham,Vincent Janssen,24,Centre Forward,9000000,In,End of loan
+Tottenham,Josh Onomah,22,Central Midfield,1500000,In,End of loan
+Tottenham,Cameron Carter Vickers,21,Centre Back,13000000,In,End of loan
+Tottenham,Cameron Carter Vickers,20,Centre Back,13000000,Out,loan transfer
+Tottenham,Josh Onomah,21,Central Midfield,1500000,Out,loan transfer
+Tottenham,Georges Kevin N'Koudou,23,Left Winger,3300000,Out,loan transfer
+Liverpool,Alisson,25,Goalkeeper,35000000,In,62500000
+Liverpool,Naby Keïta,23,Central Midfield,12000000,In,60000000
+Liverpool,Fabinho,24,Defensive Midfield,42000000,In,45000000
+Liverpool,Xherdan Shaqiri,26,Attacking Midfield,3500000,In,14700000
+Liverpool,Harry Wilson,21,Right Winger,16000000,In,Academy Promotion
+Liverpool,Ryan Kent,21,Left Winger,8000000,In,Academy Promotion
+Liverpool,Connor Randall,23,Right Back,450000,In,End of loan
+Liverpool,Ben Woodburn,19,Attacking Midfield,1000000,In,End of loan
+Liverpool,Taiwo Awoniyi,21,Centre Forward,25000000,In,End of loan
+Liverpool,Ryan Kent,22,Left Winger,8000000,In,End of loan
+Liverpool,Nathaniel Clyne,28,Right Back,2000000,In,End of loan
+Liverpool,Harry Wilson,22,Right Winger,16000000,In,End of loan
+Liverpool,Ovie Ejaria,21,Left Midfield,2000000,In,End of loan
+Liverpool,Ádám Bogdán,31,Goalkeeper,250000,In,End of loan
+Liverpool,Ovie Ejaria,21,Left Midfield,2000000,In,End of loan
+Liverpool,Lazar Markovic,24,Right Winger,2000000,In,End of loan
+Liverpool,Divock Origi,23,Centre Forward,6000000,In,End of loan
+Liverpool,Taiwo Awoniyi,20,Centre Forward,25000000,In,End of loan
+Liverpool,Dominic Solanke,21,Centre Forward,20000000,Out,21200000
+Liverpool,Danny Ward,25,Goalkeeper,6000000,Out,14000000
+Liverpool,Loris Karius,25,Goalkeeper,1200000,Out,2500000
+Liverpool,Ragnar Klavan,32,Centre Back,100000,Out,1520000
+Liverpool,Harry Wilson,21,Right Winger,16000000,Out,1100000
+Liverpool,Marko Grujic,22,Defensive Midfield,9000000,Out,1000000
+Liverpool,Emre Can,24,Defensive Midfield,14000000,Out,free transfer
+Liverpool,Lazar Markovic,24,Right Winger,2000000,Out,free transfer
+Liverpool,Sheyi Ojo,21,Right Winger,1800000,Out,loan transfer
+Liverpool,Nathaniel Clyne,27,Right Back,2000000,Out,loan transfer
+Liverpool,Connor Randall,22,Right Back,450000,Out,loan transfer
+Liverpool,Danny Ings,26,Centre Forward,12000000,Out,loan transfer
+Liverpool,Ben Woodburn,18,Attacking Midfield,1000000,Out,loan transfer
+Liverpool,Taiwo Awoniyi,20,Centre Forward,25000000,Out,loan transfer
+Liverpool,Ryan Kent,21,Left Winger,8000000,Out,loan transfer
+Liverpool,Allan,21,Defensive Midfield,7000000,Out,loan transfer
+Liverpool,Ovie Ejaria,21,Left Midfield,2000000,Out,loan transfer
+Liverpool,Taiwo Awoniyi,21,Centre Forward,25000000,Out,loan transfer
+Liverpool,Ádám Bogdán,30,Goalkeeper,250000,Out,loan transfer
+Chelsea,Kepa Arrizabalaga,23,Goalkeeper,18000000,In,80000000
+Chelsea,Christian Pulisic,20,Right Winger,25000000,In,64000000
+Chelsea,Jorginho,26,Defensive Midfield,25000000,In,57000000
+Chelsea,Mateo Kovacic,24,Central Midfield,38000000,In,loan transfer
+Chelsea,Jake Clarke Salter,20,Centre Back,2000000,In,Academy Promotion
+Chelsea,Callum Hudson Odoi,18,Left Winger,15000000,In,Academy Promotion
+Chelsea,Marco van Ginkel,25,Central Midfield,1300000,In,End of loan
+Chelsea,Tomas Kalas,26,Centre Back,900000,In,End of loan
+Chelsea,Michael Hector,25,Centre Back,500000,In,End of loan
+Chelsea,Matt Miazga,23,Centre Back,1800000,In,End of loan
+Chelsea,Mario Pasalic,23,Attacking Midfield,20000000,In,End of loan
+Chelsea,Matt Miazga,22,Centre Back,1800000,In,End of loan
+Chelsea,Kenneth Omeruo,24,Centre Back,2000000,In,End of loan
+Chelsea,Nathan,22,Attacking Midfield,2000000,In,End of loan
+Chelsea,Kenedy,23,Left Winger,1500000,In,End of loan
+Chelsea,Abdul Rahman Baba,24,Left Back,1200000,In,End of loan
+Chelsea,Michy Batshuayi,24,Centre Forward,9000000,In,End of loan
+Chelsea,Lewis Baker,23,Central Midfield,3000000,In,End of loan
+Chelsea,Lewis Baker,24,Central Midfield,3000000,In,End of loan
+Chelsea,Jamal Blackman,25,Goalkeeper,350000,In,End of loan
+Chelsea,Todd Kane,25,Right Back,250000,In,End of loan
+Chelsea,Matt Miazga,23,Centre Back,1800000,In,End of loan
+Chelsea,Fikayo Tomori,21,Centre Back,40000000,In,End of loan
+Chelsea,Tammy Abraham,21,Centre Forward,40000000,In,End of loan
+Chelsea,Kurt Zouma,24,Centre Back,22000000,In,End of loan
+Chelsea,Michy Batshuayi,25,Centre Forward,9000000,In,End of loan
+Chelsea,Thibaut Courtois,26,Goalkeeper,45000000,Out,35000000
+Chelsea,Álvaro Morata,26,Centre Forward,20000000,Out,loan transfer
+Chelsea,Kurt Zouma,23,Centre Back,22000000,Out,loan transfer
+Chelsea,Tiemoué Bakayoko,23,Defensive Midfield,2500000,Out,loan transfer
+Chelsea,Michy Batshuayi,24,Centre Forward,9000000,Out,loan transfer
+Chelsea,Mario Pasalic,23,Attacking Midfield,20000000,Out,loan transfer
+Chelsea,Michy Batshuayi,25,Centre Forward,9000000,Out,1150000
+Chelsea,Kenneth Omeruo,24,Centre Back,2000000,Out,800000
+Chelsea,Ola Aina,21,Right Back,3500000,Out,600000
+Chelsea,Matt Miazga,23,Centre Back,1800000,Out,300000
+Chelsea,Matej Delac,25,Goalkeeper,350000,Out,free transfer
+Chelsea,Christian Pulisic,20,Right Winger,25000000,Out,loan transfer
+Chelsea,Jamal Blackman,24,Goalkeeper,350000,Out,loan transfer
+Chelsea,Tomas Kalas,25,Centre Back,900000,Out,loan transfer
+Chelsea,Lucas Piazón,25,Attacking Midfield,1600000,Out,loan transfer
+Chelsea,Abdul Rahman Baba,24,Left Back,1200000,Out,loan transfer
+Chelsea,Victor Moses,28,Right Midfield,2000000,Out,loan transfer
+Chelsea,Michael Hector,26,Centre Back,500000,Out,loan transfer
+Chelsea,Matt Miazga,23,Centre Back,1800000,Out,loan transfer
+Chelsea,Tammy Abraham,20,Centre Forward,40000000,Out,loan transfer
+Chelsea,Lewis Baker,23,Central Midfield,3000000,Out,loan transfer
+Chelsea,Charly Musonda Jr.,21,Left Winger,500000,Out,loan transfer
+Chelsea,Fikayo Tomori,20,Centre Back,40000000,Out,loan transfer
+Chelsea,Jake Clarke Salter,20,Centre Back,2000000,Out,loan transfer
+Chelsea,Lewis Baker,23,Central Midfield,3000000,Out,loan transfer
+Chelsea,Todd Kane,24,Right Back,250000,Out,loan transfer
+Chelsea,Nathan,22,Attacking Midfield,2000000,Out,loan transfer
+Arsenal,Lucas Torreira,22,Defensive Midfield,15000000,In,28650000
+Arsenal,Bernd Leno,26,Goalkeeper,12000000,In,25000000
+Arsenal,Sokratis Papastathopoulos,30,Centre Back,1000000,In,16000000
+Arsenal,Mattéo Guendouzi,19,Central Midfield,25000000,In,8000000
+Arsenal,Denis Suárez,25,Attacking Midfield,5000000,In,loan transfer
+Arsenal,Eddie Nketiah,19,Centre Forward,25000000,In,Academy Promotion
+Arsenal,Dejan Iliev,23,Goalkeeper,300000,In,free transfer
+Arsenal,Calum Chambers,24,Right Back,8000000,In,End of loan
+Arsenal,Matt Macey,24,Goalkeeper,350000,In,End of loan
+Arsenal,Krystian Bielik,21,Defensive Midfield,2800000,In,End of loan
+Arsenal,Chuba Akpom,22,Centre Forward,12000000,In,End of loan
+Arsenal,Joel Campbell,26,Right Winger,1500000,In,End of loan
+Arsenal,Lucas Pérez,29,Centre Forward,800000,In,End of loan
+Arsenal,Emiliano Martínez,26,Goalkeeper,28000000,In,End of loan
+Arsenal,Emiliano Martínez,25,Goalkeeper,28000000,In,End of loan
+Arsenal,Takuma Asano,23,Right Winger,4000000,In,End of loan
+Arsenal,Lucas Pérez,29,Centre Forward,800000,Out,4400000
+Arsenal,Chuba Akpom,22,Centre Forward,12000000,Out,2200000
+Arsenal,Joel Campbell,26,Right Winger,1500000,Out,1500000
+Arsenal,Takuma Asano,23,Right Winger,4000000,Out,loan transfer
+Arsenal,Santi Cazorla,33,Central Midfield,500000,Out,free transfer
+Arsenal,Matt Macey,23,Goalkeeper,350000,Out,loan transfer
+Arsenal,David Ospina,29,Goalkeeper,3000000,Out,loan transfer
+Arsenal,Emiliano Martínez,26,Goalkeeper,28000000,Out,loan transfer
+Arsenal,Krystian Bielik,20,Defensive Midfield,2800000,Out,loan transfer
+Arsenal,Calum Chambers,23,Right Back,8000000,Out,loan transfer
+Burnley,Ben Gibson,25,Centre Back,2000000,In,16900000
+Burnley,Matej Vydra,26,Centre Forward,1300000,In,12200000
+Burnley,Joe Hart,31,Goalkeeper,1500000,In,3900000
+Burnley,Dwight McNeil,18,Left Winger,20000000,In,Academy Promotion
+Burnley,Nahki Wells,28,Centre Forward,700000,In,End of loan
+Burnley,Sam Vokes,29,Centre Forward,275000,Out,8000000
+Burnley,Scott Arfield,29,Central Midfield,500000,Out,free transfer
+Burnley,Chris Long,23,Centre Forward,225000,Out,free transfer
+Burnley,Tom Anderson,24,Centre Back,225000,Out,free transfer
+Burnley,Aiden O'Neill,20,Defensive Midfield,750000,Out,loan transfer
+Burnley,Nahki Wells,28,Centre Forward,700000,Out,loan transfer
+Everton,Richarlison,21,Centre Forward,48000000,In,39200000
+Everton,Yerry Mina,23,Centre Back,10000000,In,30250000
+Everton,Lucas Digne,25,Left Back,15000000,In,20200000
+Everton,Kurt Zouma,23,Centre Back,22000000,In,7900000
+Everton,André Gomes,25,Central Midfield,16000000,In,2250000
+Everton,Bernard,25,Left Winger,3000000,In,free transfer
+Everton,Yannick Bolasie,29,Left Winger,250000,In,End of loan
+Everton,Mason Holgate,22,Centre Back,9000000,In,End of loan
+Everton,Beni Baningime,20,Central Midfield,850000,In,End of loan
+Everton,Kieran Dowell,21,Attacking Midfield,2000000,In,End of loan
+Everton,Matthew Pennington,24,Centre Back,500000,In,End of loan
+Everton,Muhamed Besic,26,Defensive Midfield,1500000,In,End of loan
+Everton,Cuco Martina,29,Centre Back,250000,In,End of loan
+Everton,Henry Onyekuru,21,Left Winger,5500000,In,End of loan
+Everton,Luke Garbutt,26,Left Back,300000,In,End of loan
+Everton,Ademola Lookman,20,Second Striker,30000000,In,End of loan
+Everton,Sandro Ramírez,22,Centre Forward,2000000,In,End of loan
+Everton,Davy Klaassen,25,Central Midfield,10000000,Out,13500000
+Everton,Ramiro Funes Mori,27,Centre Back,1000000,Out,9000000
+Everton,Tyias Browning,24,Centre Back,800000,Out,4600000
+Everton,Henry Onyekuru,21,Left Winger,5500000,Out,800000
+Everton,Joel Robles,28,Goalkeeper,1000000,Out,free transfer
+Everton,Muhamed Besic,25,Defensive Midfield,1500000,Out,loan transfer
+Everton,Kieran Dowell,21,Attacking Midfield,2000000,Out,loan transfer
+Everton,Oumar Niasse,28,Centre Forward,200000,Out,loan transfer
+Everton,Yannick Bolasie,29,Left Winger,250000,Out,loan transfer
+Everton,Sandro Ramírez,23,Centre Forward,2000000,Out,loan transfer
+Everton,Matthew Pennington,23,Centre Back,500000,Out,loan transfer
+Everton,Mason Holgate,22,Centre Back,9000000,Out,loan transfer
+Everton,Cuco Martina,28,Centre Back,250000,Out,loan transfer
+Everton,Nikola Vlaši?,20,Attacking Midfield,17000000,Out,loan transfer
+Everton,Cuco Martina,29,Centre Back,250000,Out,loan transfer
+Everton,Beni Baningime,20,Central Midfield,850000,Out,loan transfer
+Everton,Luke Garbutt,25,Left Back,300000,Out,loan transfer
+Everton,Yannick Bolasie,29,Left Winger,250000,Out,loan transfer
+Everton,Kurt Zouma,24,Centre Back,22000000,Out,End of loan
+Leicester,James Maddison,21,Attacking Midfield,60000000,In,25000000
+Leicester,Ricardo Pereira,24,Right Back,10000000,In,22000000
+Leicester,Caglar Söyüncü,22,Centre Back,15000000,In,21100000
+Leicester,Filip Benkovic,21,Centre Back,2800000,In,14500000
+Leicester,Danny Ward,25,Goalkeeper,6000000,In,14000000
+Leicester,Rachid Ghezzal,26,Right Winger,4000000,In,14000000
+Leicester,Jonny Evans,30,Centre Back,2000000,In,4000000
+Leicester,Youri Tielemans,21,Central Midfield,25000000,In,loan transfer
+Leicester,Harvey Barnes,20,Left Winger,35000000,In,Academy Promotion
+Leicester,George Thomas,22,Attacking Midfield,275000,In,End of loan
+Leicester,Bartosz Kapustka,22,Central Midfield,1500000,In,End of loan
+Leicester,Harvey Barnes,21,Left Winger,35000000,In,End of loan
+Leicester,Callum Elder,24,Left Back,800000,In,End of loan
+Leicester,Ahmed Musa,25,Left Winger,1300000,In,End of loan
+Leicester,Nampalys Mendy,26,Defensive Midfield,2500000,In,End of loan
+Leicester,Bartosz Kapustka,21,Central Midfield,1500000,In,End of loan
+Leicester,Riyad Mahrez,27,Right Winger,20000000,Out,67800000
+Leicester,Ahmed Musa,25,Left Winger,1300000,Out,16500000
+Leicester,Vicente Iborra,30,Defensive Midfield,1200000,Out,10000000
+Leicester,Islam Slimani,30,Centre Forward,1500000,Out,1500000
+Leicester,Josh Gordon,23,Centre Forward,175000,Out,free transfer
+Leicester,Ben Hamer,30,Goalkeeper,200000,Out,free transfer
+Leicester,Fousseni Diabaté,23,Right Winger,5000000,Out,loan transfer
+Leicester,Yohan Benalouane,31,Centre Back,125000,Out,loan transfer
+Leicester,Bartosz Kapustka,21,Central Midfield,1500000,Out,loan transfer
+Leicester,Filip Benkovic,21,Centre Back,2800000,Out,loan transfer
+Leicester,Callum Elder,23,Left Back,800000,Out,loan transfer
+Leicester,Adrien Silva,29,Central Midfield,1500000,Out,loan transfer
+Leicester,Andy King,30,Central Midfield,200000,Out,loan transfer
+Leicester,George Thomas,21,Attacking Midfield,275000,Out,loan transfer
+Leicester,Harvey Barnes,20,Left Winger,35000000,Out,loan transfer
+Leicester,Aleksandar Dragovic,27,Centre Back,4500000,Out,End of loan
+Newcastle,Miguel Almirón,24,Right Winger,32000000,In,24000000
+Newcastle,Yoshinori Muto,26,Centre Forward,1800000,In,10700000
+Newcastle,Mikel Merino,22,Central Midfield,50000000,In,7000000
+Newcastle,Federico Fernández,29,Centre Back,700000,In,6700000
+Newcastle,Martin Dúbravka,29,Goalkeeper,1500000,In,4000000
+Newcastle,Fabian Schär,26,Centre Back,10000000,In,4000000
+Newcastle,Salomón Rondón,28,Centre Forward,1500000,In,2200000
+Newcastle,Antonio Barreca,23,Left Back,800000,In,1150000
+Newcastle,Sung yueng Ki,29,Defensive Midfield,700000,In,free transfer
+Newcastle,Sean Longstaff,21,Central Midfield,25000000,In,Academy Promotion
+Newcastle,Matz Sels,26,Goalkeeper,7000000,In,End of loan
+Newcastle,Achraf Lazaar,27,Left Back,200000,In,End of loan
+Newcastle,Rolando Aarons,23,Left Winger,250000,In,End of loan
+Newcastle,Achraf Lazaar,26,Left Back,200000,In,End of loan
+Newcastle,Jacob Murphy,24,Right Winger,15000000,In,End of loan
+Newcastle,Henri Saivet,27,Attacking Midfield,500000,In,End of loan
+Newcastle,Dwight Gayle,29,Centre Forward,600000,In,End of loan
+Newcastle,Jamie Sterry,23,Right Back,125000,In,End of loan
+Newcastle,Rolando Aarons,22,Left Winger,250000,In,End of loan
+Newcastle,Rolando Aarons,23,Left Winger,250000,In,End of loan
+Newcastle,Jack Colback,29,Defensive Midfield,600000,In,End of loan
+Newcastle,Dan Barlaser,22,Central Midfield,2000000,In,End of loan
+Newcastle,Aleksandar Mitrovic,23,Centre Forward,28000000,Out,24700000
+Newcastle,Mikel Merino,22,Central Midfield,50000000,Out,12000000
+Newcastle,Chancel Mbemba,23,Centre Back,20000000,Out,4660000
+Newcastle,Matz Sels,26,Goalkeeper,7000000,Out,4000000
+Newcastle,Dwight Gayle,28,Centre Forward,600000,Out,loan transfer
+Newcastle,Adam Armstrong,21,Centre Forward,10000000,Out,1900000
+Newcastle,Henri Saivet,27,Attacking Midfield,500000,Out,loan transfer
+Newcastle,Jacob Murphy,23,Right Winger,15000000,Out,loan transfer
+Newcastle,Ivan Toney,22,Centre Forward,35000000,Out,390000
+Newcastle,Massadio Haidara,25,Left Back,3000000,Out,free transfer
+Newcastle,Stuart Findlay,22,Centre Back,450000,Out,free transfer
+Newcastle,Jack Colback,28,Defensive Midfield,600000,Out,loan transfer
+Newcastle,Jamie Sterry,23,Right Back,125000,Out,loan transfer
+Newcastle,Rolando Aarons,22,Left Winger,250000,Out,loan transfer
+Newcastle,Dan Barlaser,21,Central Midfield,2000000,Out,loan transfer
+Newcastle,Rolando Aarons,23,Left Winger,250000,Out,loan transfer
+Newcastle,Achraf Lazaar,27,Left Back,200000,Out,loan transfer
+Newcastle,Curtis Good,25,Centre Back,550000,Out,free transfer
+Newcastle,Martin Dúbravka,29,Goalkeeper,1500000,Out,End of loan
+Newcastle,Mikel Merino,22,Central Midfield,50000000,Out,End of loan
+Newcastle,Kenedy,23,Left Winger,1500000,Out,End of loan
+Newcastle,Salomón Rondón,29,Centre Forward,1500000,Out,End of loan
+Crystal Palace,Cheikhou Kouyaté,28,Defensive Midfield,2000000,In,10700000
+Crystal Palace,Michy Batshuayi,25,Centre Forward,9000000,In,loan transfer
+Crystal Palace,Max Meyer,22,Attacking Midfield,3000000,In,free transfer
+Crystal Palace,Bakary Sako,30,Left Winger,125000,In,free transfer
+Crystal Palace,Vicente Guaita,31,Goalkeeper,1000000,In,free transfer
+Crystal Palace,Jordan Ayew,26,Centre Forward,5000000,In,loan transfer
+Crystal Palace,Lucas Perri,21,Goalkeeper,5000000,In,loan transfer
+Crystal Palace,Ryan Inniss,23,Centre Back,300000,In,End of loan
+Crystal Palace,Jaroslaw Jach,24,Centre Back,500000,In,End of loan
+Crystal Palace,Jordon Mutch,27,Central Midfield,175000,In,End of loan
+Crystal Palace,Alexander Sørloth,23,Centre Forward,12000000,Out,loan transfer
+Crystal Palace,Sullay Kaikai,23,Left Winger,250000,Out,free transfer
+Crystal Palace,Jordon Mutch,27,Central Midfield,175000,Out,free transfer
+Crystal Palace,Jonathan Williams,25,Attacking Midfield,350000,Out,free transfer
+Crystal Palace,Jaroslaw Jach,24,Centre Back,500000,Out,loan transfer
+Crystal Palace,Ryan Inniss,23,Centre Back,300000,Out,loan transfer
+Crystal Palace,Jaroslaw Jach,24,Centre Back,500000,Out,loan transfer
+Crystal Palace,Bakary Sako,30,Left Winger,125000,Out,free transfer
+Crystal Palace,Chung yong Lee,29,Right Winger,500000,Out,free transfer
+Crystal Palace,Jordan Ayew,27,Centre Forward,5000000,Out,End of loan
+Crystal Palace,Erdal Rakip,22,Central Midfield,1000000,Out,End of loan
+Bournemouth,Jefferson Lerma,23,Defensive Midfield,20000000,In,30500000
+Bournemouth,Dominic Solanke,21,Centre Forward,20000000,In,21200000
+Bournemouth,Diego Rico,25,Left Back,3000000,In,15000000
+Bournemouth,Chris Mepham,21,Centre Back,8000000,In,13600000
+Bournemouth,David Brooks,20,Right Winger,12000000,In,11300000
+Bournemouth,Nathaniel Clyne,27,Right Back,2000000,In,loan transfer
+Bournemouth,Emerson Hyndman,22,Central Midfield,800000,In,loan transfer
+Bournemouth,Aaron Ramsdale,21,Goalkeeper,40000000,In,End of loan
+Bournemouth,Harry Arter,29,Central Midfield,400000,In,End of loan
+Bournemouth,Max Gradel,30,Left Winger,1300000,In,End of loan
+Bournemouth,Connor Mahoney,22,Right Winger,300000,In,End of loan
+Bournemouth,Tyrone Mings,26,Centre Back,22000000,In,End of loan
+Bournemouth,Benik Afobe,25,Centre Forward,1200000,In,End of loan
+Bournemouth,Benik Afobe,25,Centre Forward,1200000,Out,11400000
+Bournemouth,Lewis Grabban,30,Centre Forward,250000,Out,6800000
+Bournemouth,Max Gradel,30,Left Winger,1300000,Out,2000000
+Bournemouth,Baily Cargill,23,Centre Back,200000,Out,free transfer
+Bournemouth,Ryan Allsop,26,Goalkeeper,900000,Out,free transfer
+Bournemouth,Tyrone Mings,25,Centre Back,22000000,Out,loan transfer
+Bournemouth,Connor Mahoney,21,Right Winger,300000,Out,loan transfer
+Bournemouth,Aaron Ramsdale,20,Goalkeeper,40000000,Out,loan transfer
+Bournemouth,Harry Arter,28,Central Midfield,400000,Out,loan transfer
+Bournemouth,Brad Smith,24,Left Back,850000,Out,loan transfer
+Bournemouth,Emerson Hyndman,23,Central Midfield,800000,Out,End of loan
+Bournemouth,Nathaniel Clyne,28,Right Back,2000000,Out,End of loan
+West Ham,Felipe Anderson,25,Right Winger,15000000,In,38000000
+West Ham,Issa Diop,21,Centre Back,18000000,In,25000000
+West Ham,Andriy Yarmolenko,28,Right Winger,2000000,In,20000000
+West Ham,Lukasz Fabianski,33,Goalkeeper,900000,In,8000000
+West Ham,Lucas Pérez,29,Centre Forward,800000,In,4400000
+West Ham,Fabián Balbuena,26,Centre Back,3000000,In,4000000
+West Ham,Xande Silva,21,Right Winger,700000,In,1500000
+West Ham,Ryan Fredericks,25,Right Back,1500000,In,free transfer
+West Ham,Carlos Sánchez,32,Defensive Midfield,250000,In,free transfer
+West Ham,Grady Diangana,20,Right Winger,4500000,In,Academy Promotion
+West Ham,Josh Cullen,23,Central Midfield,13000000,In,End of loan
+West Ham,Sam Byram,25,Left Back,1000000,In,End of loan
+West Ham,Jordan Hugill,26,Centre Forward,700000,In,End of loan
+West Ham,Sead Hakšabanovi?,19,Left Winger,4000000,In,End of loan
+West Ham,Moses Makasi,23,Central Midfield,200000,In,End of loan
+West Ham,Reece Oxford,19,Centre Back,5500000,In,End of loan
+West Ham,Cheikhou Kouyaté,28,Defensive Midfield,2000000,Out,10700000
+West Ham,Reece Burke,21,Centre Back,1800000,Out,1700000
+West Ham,Edimilson Fernandes,22,Centre Back,5500000,Out,loan transfer
+West Ham,Reece Oxford,20,Centre Back,5500000,Out,loan transfer
+West Ham,Sead Hakšabanovi?,19,Left Winger,4000000,Out,loan transfer
+West Ham,Moses Makasi,23,Central Midfield,200000,Out,loan transfer
+West Ham,Jordan Hugill,26,Centre Forward,700000,Out,loan transfer
+West Ham,Sead Hakšabanovi?,19,Left Winger,4000000,Out,loan transfer
+West Ham,Sam Byram,24,Left Back,1000000,Out,loan transfer
+West Ham,Josh Cullen,22,Central Midfield,13000000,Out,loan transfer
+West Ham,João Mário,25,Central Midfield,14000000,Out,End of loan
+Watford,Gerard Deulofeu,24,Centre Forward,10000000,In,13000000
+Watford,Adam Masina,24,Centre Back,2500000,In,5000000
+Watford,Ken Sema,24,Left Midfield,2500000,In,2250000
+Watford,Marc Navarro,22,Right Back,250000,In,2000000
+Watford,Ben Wilmot,18,Centre Back,6000000,In,1700000
+Watford,Domingos Quina,18,Central Midfield,1800000,In,1100000
+Watford,Kwasi Sibo,20,Central Midfield,300000,In,free transfer
+Watford,Jorge Segura,21,Centre Back,400000,In,End of loan
+Watford,Adalberto Peñaranda,21,Left Winger,400000,In,End of loan
+Watford,Valber Huerta,25,Centre Back,3500000,In,End of loan
+Watford,Mauro Zárate,31,Centre Forward,250000,In,End of loan
+Watford,Pervis Estupiñán,20,Left Back,32000000,In,End of loan
+Watford,Luis Suárez,20,Centre Forward,8000000,In,End of loan
+Watford,Mamadou Obbi Oulare,22,Centre Forward,300000,In,End of loan
+Watford,Dimitri Foulquier,25,Right Back,2500000,In,End of loan
+Watford,Nordin Amrabat,31,Right Winger,400000,In,End of loan
+Watford,Daniel Bachmann,24,Goalkeeper,2500000,In,End of loan
+Watford,Brice Dja Djedje,27,Defensive Midfield,175000,In,End of loan
+Watford,Isaac Success,22,Centre Forward,4000000,In,End of loan
+Watford,Pontus Dahlberg,19,Goalkeeper,800000,In,End of loan
+Watford,Jorge Segura,21,Centre Back,400000,In,End of loan
+Watford,Richarlison,21,Centre Forward,48000000,Out,39200000
+Watford,Nordin Amrabat,31,Right Winger,400000,Out,8500000
+Watford,Mauro Zárate,31,Centre Forward,250000,Out,2300000
+Watford,Stefano Okaka,29,Centre Forward,1300000,Out,loan transfer
+Watford,Valber Huerta,25,Centre Back,3500000,Out,440000
+Watford,Marvin Zeegelaar,28,Centre Back,400000,Out,loan transfer
+Watford,Dodi Lukébakio,20,Right Winger,12000000,Out,300000
+Watford,Ben Wilmot,19,Centre Back,6000000,Out,300000
+Watford,Brice Dja Djedje,27,Defensive Midfield,175000,Out,free transfer
+Watford,Luis Suárez,20,Centre Forward,8000000,Out,loan transfer
+Watford,Kwasi Sibo,20,Central Midfield,300000,Out,loan transfer
+Watford,Pervis Estupiñán,20,Left Back,32000000,Out,loan transfer
+Watford,Daniel Bachmann,24,Goalkeeper,2500000,Out,loan transfer
+Watford,Mamadou Obbi Oulare,22,Centre Forward,300000,Out,loan transfer
+Watford,Dimitri Foulquier,25,Right Back,2500000,Out,loan transfer
+Watford,Jorge Segura,21,Centre Back,400000,Out,loan transfer
+Watford,André Carrillo,27,Right Winger,2200000,Out,End of loan
+Watford,Molla Wagué,27,Centre Back,250000,Out,End of loan
+Watford,Gerard Deulofeu,24,Centre Forward,10000000,Out,End of loan
+ Brighton,Alireza Jahanbakhsh,24,Right Winger,4000000,In,19000000
+ Brighton,Yves Bissouma,21,Central Midfield,18000000,In,16800000
+ Brighton,Bernardo,23,Centre Back,2500000,In,10000000
+ Brighton,Alexis Mac Allister,20,Central Midfield,65000000,In,8000000
+ Brighton,Martín Montoya,27,Right Back,900000,In,7000000
+ Brighton,Florin Andone,25,Centre Forward,800000,In,6000000
+ Brighton,David Button,29,Goalkeeper,250000,In,4500000
+ Brighton,Dan Burn,26,Left Back,10000000,In,3550000
+ Brighton,Percy Tau,24,Right Winger,1500000,In,3200000
+ Brighton,Jan Mlakar,20,Centre Forward,2800000,In,3000000
+ Brighton,Tudor Baluta,19,Defensive Midfield,2800000,In,2900000
+ Brighton,Anders Dreyer,20,Right Winger,8000000,In,2200000
+ Brighton,Billy Arce,20,Left Winger,700000,In,860000
+ Brighton,Leo Østigård,18,Centre Back,7000000,In,110000
+ Brighton,Leon Balogun,30,Centre Back,250000,In,free transfer
+ Brighton,Jason Steele,27,Goalkeeper,4000000,In,free transfer
+ Brighton,Ben White,20,Right Back,55000000,In,Academy Promotion
+ Brighton,Richie Towell,27,Central Midfield,200000,In,End of loan
+ Brighton,Ben White,21,Right Back,55000000,In,End of loan
+ Brighton,Tomer Hemed,32,Centre Forward,200000,In,End of loan
+ Brighton,Oliver Norwood,27,Central Midfield,2000000,In,End of loan
+ Brighton,Dan Burn,26,Left Back,10000000,In,End of loan
+ Brighton,Billy Arce,20,Left Winger,700000,In,End of loan
+ Brighton,Anders Dreyer,21,Right Winger,8000000,In,End of loan
+ Brighton,Christian Walton,23,Goalkeeper,1200000,In,End of loan
+ Brighton,Mathias Normann,22,Defensive Midfield,6000000,In,End of loan
+ Brighton,Connor Goldson,25,Centre Back,6500000,Out,3400000
+ Brighton,Oliver Norwood,27,Central Midfield,2000000,Out,2200000
+ Brighton,Mathias Normann,22,Defensive Midfield,6000000,Out,1700000
+ Brighton,Jamie Murphy,28,Left Winger,400000,Out,1200000
+ Brighton,Jiri Skalak,26,Left Winger,200000,Out,1000000
+ Brighton,Ezequiel Schelotto,29,Right Back,50000,Out,220000
+ Brighton,Tim Krul,30,Goalkeeper,600000,Out,free transfer
+ Brighton,Niki Mäenpää,33,Goalkeeper,100000,Out,free transfer
+ Brighton,Alexis Mac Allister,20,Central Midfield,65000000,Out,loan transfer
+ Brighton,Dan Burn,26,Left Back,10000000,Out,loan transfer
+ Brighton,Christian Walton,22,Goalkeeper,1200000,Out,loan transfer
+ Brighton,Tudor Baluta,19,Defensive Midfield,2800000,Out,loan transfer
+ Brighton,Anders Dreyer,20,Right Winger,8000000,Out,loan transfer
+ Brighton,Billy Arce,20,Left Winger,700000,Out,loan transfer
+ Brighton,Billy Arce,20,Left Winger,700000,Out,loan transfer
+ Brighton,Percy Tau,24,Right Winger,1500000,Out,loan transfer
+ Brighton,Oliver Norwood,27,Central Midfield,2000000,Out,loan transfer
+ Brighton,Ales Mateju,22,Right Back,900000,Out,loan transfer
+ Brighton,Tomer Hemed,31,Centre Forward,200000,Out,loan transfer
+ Brighton,Richie Towell,27,Central Midfield,200000,Out,loan transfer
+ Brighton,Ben White,21,Right Back,55000000,Out,loan transfer
+ Brighton,Jan Mlakar,20,Centre Forward,2800000,Out,loan transfer
+Huddersfield,Terence Kongolo,24,Centre Back,900000,In,20000000
+Huddersfield,Adama Diakhaby,22,Right Winger,600000,In,10000000
+Huddersfield,Ramadan Sobhi,21,Left Winger,3000000,In,6500000
+Huddersfield,Florent Hadergjonaj,23,Right Back,2800000,In,5000000
+Huddersfield,Jonas Lössl,29,Goalkeeper,500000,In,2500000
+Huddersfield,Juninho Bacuna,20,Central Midfield,5000000,In,2500000
+Huddersfield,Isaac Mbenza,22,Right Winger,2200000,In,loan transfer
+Huddersfield,Karlan Grant,21,Centre Forward,4500000,In,1700000
+Huddersfield,Erik Durm,26,Right Back,600000,In,free transfer
+Huddersfield,Ben Hamer,30,Goalkeeper,200000,In,free transfer
+Huddersfield,Jack Payne,24,Attacking Midfield,500000,In,End of loan
+Huddersfield,Joel Coleman,23,Goalkeeper,250000,In,End of loan
+Huddersfield,Rajiv van La Parra,27,Left Winger,300000,In,End of loan
+Huddersfield,Tom Ince,26,Right Winger,1500000,Out,11200000
+Huddersfield,Ramadan Sobhi,21,Left Winger,3000000,Out,loan transfer
+Huddersfield,Jordy Hiwula,23,Centre Forward,300000,Out,free transfer
+Huddersfield,Sean Scannell,27,Right Winger,75000,Out,free transfer
+Huddersfield,Scott Malone,27,Left Back,700000,Out,loan transfer
+Huddersfield,Jack Payne,23,Attacking Midfield,500000,Out,loan transfer
+Huddersfield,Joel Coleman,22,Goalkeeper,250000,Out,loan transfer
+Huddersfield,Rajiv van La Parra,27,Left Winger,300000,Out,loan transfer
+Huddersfield,Jonas Lössl,29,Goalkeeper,500000,Out,End of loan
+Huddersfield,Terence Kongolo,24,Centre Back,900000,Out,End of loan
+Huddersfield,Florent Hadergjonaj,23,Right Back,2800000,Out,End of loan
+Southampton,Jannik Vestergaard,25,Centre Back,4000000,In,25000000
+Southampton,Mohamed Elyounoussi,23,Left Winger,7000000,In,18000000
+Southampton,Angus Gunn,22,Goalkeeper,2500000,In,11300000
+Southampton,Stuart Armstrong,26,Central Midfield,4500000,In,7950000
+Southampton,Danny Ings,26,Centre Forward,12000000,In,loan transfer
+Southampton,Michael Obafemi,18,Centre Forward,5000000,In,Academy Promotion
+Southampton,Yan Valery,19,Right Back,2000000,In,Academy Promotion
+Southampton,Josh Sims,21,Right Winger,400000,In,End of loan
+Southampton,Steven Davis,34,Central Midfield,500000,In,End of loan
+Southampton,Harrison Reed,24,Central Midfield,18000000,In,End of loan
+Southampton,Jordy Clasie,27,Defensive Midfield,3000000,In,End of loan
+Southampton,Dusan Tadic,29,Left Winger,5500000,Out,13700000
+Southampton,Manolo Gabbiadini,27,Centre Forward,2000000,Out,11900000
+Southampton,Cédric Soares,27,Right Back,3000000,Out,500000
+Southampton,Jérémy Pied,29,Right Back,200000,Out,free transfer
+Southampton,Wesley Hoedt,24,Centre Back,2000000,Out,loan transfer
+Southampton,Steven Davis,34,Central Midfield,500000,Out,loan transfer
+Southampton,Harrison Reed,23,Central Midfield,18000000,Out,loan transfer
+Southampton,Sofiane Boufal,24,Left Winger,8000000,Out,loan transfer
+Southampton,Josh Sims,21,Right Winger,400000,Out,loan transfer
+Southampton,Jordy Clasie,27,Defensive Midfield,3000000,Out,loan transfer
+Southampton,Guido Carrillo,27,Centre Forward,750000,Out,loan transfer
+Wolves,Jonny Otto,24,Left Back,13000000,In,21000000
+Wolves,Adama Traoré,22,Right Winger,10000000,In,20000000
+Wolves,Rui Patrício,30,Goalkeeper,5000000,In,18000000
+Wolves,Diogo Jota,21,Left Winger,50000000,In,14000000
+Wolves,Willy Boly,27,Centre Back,2500000,In,12000000
+Wolves,Benik Afobe,25,Centre Forward,1200000,In,11400000
+Wolves,João Moutinho,31,Central Midfield,1500000,In,5600000
+Wolves,Léo Bonatini,24,Centre Forward,1200000,In,4000000
+Wolves,Raúl Jiménez,27,Centre Forward,6000000,In,3000000
+Wolves,Rúben Vinagre,19,Left Back,4000000,In,2250000
+Wolves,Leander Dendoncker,23,Defensive Midfield,15000000,In,loan transfer
+Wolves,Max Kilman,21,Centre Back,30000000,In,free transfer
+Wolves,Jonny Otto,24,Left Back,13000000,In,loan transfer
+Wolves,Ryan Giles,18,Left Back,9000000,In,Academy Promotion
+Wolves,Benik Afobe,25,Centre Forward,1200000,In,End of loan
+Wolves,Paul Gladon,26,Centre Forward,450000,In,End of loan
+Wolves,Léo Bonatini,25,Centre Forward,1200000,In,End of loan
+Wolves,Prince Oniangué,29,Defensive Midfield,250000,In,End of loan
+Wolves,Duckens Nazon,24,Centre Forward,1500000,In,End of loan
+Wolves,Joe Mason,27,Centre Forward,200000,In,End of loan
+Wolves,Harry Burgoyne,22,Goalkeeper,150000,In,End of loan
+Wolves,Aaron Collins,21,Centre Forward,1800000,In,End of loan
+Wolves,Phil Ofosu Ayeh,27,Right Back,400000,In,End of loan
+Wolves,Harry Burgoyne,21,Goalkeeper,150000,In,End of loan
+Wolves,Bright Enobakhare,21,Centre Forward,200000,In,End of loan
+Wolves,Jordan Graham,24,Right Winger,350000,In,End of loan
+Wolves,Danny Batth,28,Centre Back,700000,In,End of loan
+Wolves,Jordan Graham,23,Right Winger,350000,In,End of loan
+Wolves,Connor Ronan,20,Central Midfield,1000000,In,End of loan
+Wolves,Joe Mason,27,Centre Forward,200000,In,End of loan
+Wolves,Ben Stevenson,21,Central Midfield,325000,In,End of loan
+Wolves,Bright Enobakhare,20,Centre Forward,200000,In,End of loan
+Wolves,Paul Gladon,26,Centre Forward,450000,In,End of loan
+Wolves,Benik Afobe,25,Centre Forward,1200000,Out,13500000
+Wolves,Danny Batth,28,Centre Back,700000,Out,3450000
+Wolves,Barry Douglas,28,Left Back,350000,Out,3400000
+Wolves,Prince Oniangué,29,Defensive Midfield,250000,Out,500000
+Wolves,Roderick Miranda,27,Centre Back,1200000,Out,500000
+Wolves,Ben Stevenson,21,Central Midfield,325000,Out,250000
+Wolves,Duckens Nazon,24,Centre Forward,1500000,Out,free transfer
+Wolves,Paul Gladon,26,Centre Forward,450000,Out,free transfer
+Wolves,Harry Burgoyne,21,Goalkeeper,150000,Out,loan transfer
+Wolves,Jordan Graham,23,Right Winger,350000,Out,loan transfer
+Wolves,Michal Zyro,25,Centre Forward,150000,Out,loan transfer
+Wolves,Dominic Iorfa,23,Centre Back,400000,Out,loan transfer
+Wolves,Jordan Graham,23,Right Winger,350000,Out,loan transfer
+Wolves,Phil Ofosu Ayeh,26,Right Back,400000,Out,loan transfer
+Wolves,Paul Gladon,26,Centre Forward,450000,Out,loan transfer
+Wolves,Sylvain Deslandes,21,Centre Back,200000,Out,loan transfer
+Wolves,Bright Enobakhare,20,Centre Forward,200000,Out,loan transfer
+Wolves,Joe Mason,27,Centre Forward,200000,Out,loan transfer
+Wolves,Danny Batth,27,Centre Back,700000,Out,loan transfer
+Wolves,Connor Ronan,20,Central Midfield,1000000,Out,loan transfer
+Wolves,Ben Stevenson,21,Central Midfield,325000,Out,loan transfer
+Wolves,Kortney Hause,23,Centre Back,2200000,Out,loan transfer
+Wolves,Bright Enobakhare,20,Centre Forward,200000,Out,loan transfer
+Wolves,Ming Yang Yang,22,Defensive Midfield,200000,Out,loan transfer
+Wolves,Rafa Mir,21,Centre Forward,10000000,Out,loan transfer
+Wolves,Ethan Ebanks Landell,26,Centre Back,200000,Out,loan transfer
+Wolves,Benik Afobe,25,Centre Forward,1200000,Out,loan transfer
+Wolves,Harry Burgoyne,22,Goalkeeper,150000,Out,loan transfer
+Wolves,Aaron Collins,21,Centre Forward,1800000,Out,loan transfer
+Wolves,Léo Bonatini,24,Centre Forward,1200000,Out,loan transfer
+Wolves,Phil Ofosu Ayeh,27,Right Back,400000,Out,loan transfer
+Wolves,Connor Ronan,20,Central Midfield,1000000,Out,loan transfer
+Wolves,Aaron Collins,21,Centre Forward,1800000,Out,Academy Promotion
+Wolves,Joe Mason,27,Centre Forward,200000,Out,free transfer
+Wolves,Willy Boly,27,Centre Back,2500000,Out,End of loan
+Wolves,Rúben Vinagre,19,Left Back,4000000,Out,End of loan
+Wolves,Diogo Jota,21,Left Winger,50000000,Out,End of loan
+Wolves,Léo Bonatini,24,Centre Forward,1200000,Out,End of loan
+Wolves,Alfred N'Diaye,28,Defensive Midfield,1000000,Out,End of loan
+Wolves,Benik Afobe,25,Centre Forward,1200000,Out,End of loan
+Wolves,Jonny Otto,24,Left Back,13000000,Out,End of loan
+Cardiff,Josh Murphy,23,Left Winger,700000,In,11400000
+Cardiff,Bobby De CordovaReid,25,Attacking Midfield,7000000,In,11350000
+Cardiff,Greg Cunningham,27,Left Back,300000,In,4000000
+Cardiff,Alex Smithies,28,Goalkeeper,500000,In,4000000
+Cardiff,Leandro Bacuna,27,Central Midfield,900000,In,3450000
+Cardiff,Víctor Camarasa,24,Central Midfield,800000,In,loan transfer
+Cardiff,Oumar Niasse,28,Centre Forward,200000,In,loan transfer
+Cardiff,Harry Arter,28,Central Midfield,400000,In,loan transfer
+Cardiff,Omar Bogle,25,Centre Forward,400000,In,End of loan
+Cardiff,Ciaron Brown,21,Left Back,350000,In,End of loan
+Cardiff,Stuart O'Keefe,27,Central Midfield,100000,In,End of loan
+Cardiff,Rhys Healey,24,Centre Forward,2500000,In,End of loan
+Cardiff,Gary Madine,28,Centre Forward,250000,In,End of loan
+Cardiff,Matty Kennedy,23,Left Winger,400000,Out,free transfer
+Cardiff,Ben Wilson,25,Goalkeeper,900000,Out,free transfer
+Cardiff,Omar Bogle,25,Centre Forward,400000,Out,loan transfer
+Cardiff,Ciaron Brown,21,Left Back,350000,Out,loan transfer
+Cardiff,Omar Bogle,25,Centre Forward,400000,Out,loan transfer
+Cardiff,Gary Madine,28,Centre Forward,250000,Out,loan transfer
+Cardiff,Rhys Healey,23,Centre Forward,2500000,Out,loan transfer
+Cardiff,Stuart O'Keefe,27,Central Midfield,100000,Out,loan transfer
+Cardiff,Harry Arter,29,Central Midfield,400000,Out,End of loan
+Fulham,Jean Michaël Seri,26,Defensive Midfield,1500000,In,30000000
+Fulham,Frank Anguissa,22,Central Midfield,40000000,In,24850000
+Fulham,Aleksandar Mitrovic,23,Centre Forward,28000000,In,24700000
+Fulham,Joe Bryan,24,Left Back,2200000,In,6700000
+Fulham,Fabri,30,Goalkeeper,100000,In,6000000
+Fulham,Ryan Babel,32,Left Winger,150000,In,2000000
+Fulham,Lazar Markovic,24,Right Winger,2000000,In,free transfer
+Fulham,Timothy Fosu Mensah,20,Right Back,2000000,In,loan transfer
+Fulham,Luciano Vietto,24,Centre Forward,2500000,In,loan transfer
+Fulham,Sergio Rico,24,Goalkeeper,3000000,In,loan transfer
+Fulham,Calum Chambers,23,Right Back,8000000,In,loan transfer
+Fulham,Cauley Woodrow,24,Centre Forward,1200000,In,End of loan
+Fulham,Marcelo Djaló,25,Centre Back,50000,In,End of loan
+Fulham,Stefan Johansen,28,Central Midfield,800000,In,End of loan
+Fulham,David Button,29,Goalkeeper,250000,Out,4500000
+Fulham,Cauley Woodrow,24,Centre Forward,1200000,Out,850000
+Fulham,Ryan Fredericks,25,Right Back,1500000,Out,free transfer
+Fulham,Aboubakar Kamara,23,Centre Forward,2500000,Out,loan transfer
+Fulham,Stefan Johansen,28,Central Midfield,800000,Out,loan transfer
+Fulham,Rui Fonte,28,Centre Forward,300000,Out,loan transfer
+Fulham,Cauley Woodrow,23,Centre Forward,1200000,Out,loan transfer
+Fulham,Marcelo Djaló,24,Centre Back,50000,Out,loan transfer
+Fulham,Timothy Fosu Mensah,21,Right Back,2000000,Out,End of loan
+Fulham,Calum Chambers,24,Right Back,8000000,Out,End of loan
